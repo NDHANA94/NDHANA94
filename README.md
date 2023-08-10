@@ -1,6 +1,8 @@
 ### Hi there, I'm Nipun 👋
+<!-- 
 Passionate about technology and driven by a curiosity for problem-solving, I am an experienced software engineer with a specialization in robotics and automation. 
 My journey in this field has been a thrilling exploration of cutting-edge technologies and their practical applications.
+-->
 
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true)
 
