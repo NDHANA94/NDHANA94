@@ -6,7 +6,7 @@ My journey in this field has been a thrilling exploration of cutting-edge techno
 
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&hide_progress=false)
 
 <!--
 **NDHANA94/NDHANA94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
