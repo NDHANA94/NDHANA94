@@ -1,14 +1,12 @@
-### Hi there, I'm Nipun 👋
-
-I am a PhD researcher in Robotics and AI 🤖🧠, And I am passionate about developing innovative solutions and pushing the boundaries of what robots can achieve.  🦾
+---
+![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&layout=compact&theme=dark&show)
+---
 
 </br>
 
----
-![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true)
+### Hi there, I'm Nipun 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&layout=compact)
----
+I am a PhD researcher in Robotics and AI 🤖🧠, And I am passionate about developing innovative solutions and pushing the boundaries of what robots can achieve.  🦾
 
 </br>
 
