@@ -1,6 +1,6 @@
 ### Hi there, I'm Nipun 👋
 
-I am a PhD researcher in Robotics and AI 🤖🧠.  I am passionate about developing innovative solutions and pushing the boundaries of what robots can achieve.  🦾
+I am a PhD researcher in Robotics and AI 🤖🧠, And I am passionate about developing innovative solutions and pushing the boundaries of what robots can achieve.  🦾
 
 </br>
 
