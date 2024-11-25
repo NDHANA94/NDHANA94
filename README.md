@@ -1,9 +1,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=NDHANA94)
----
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-dhananjaya-a26378234)
-[![YouTube](https://img.shields.io/badge/YouTube-white.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@nipundhananjaya1367/videos)
-[![Email](https://img.shields.io/badge/GMail-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nipun.dhananjaya@gmail.com)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-white.svg?style=for-the-badge&logo=google-scholar&logoColor=lightpurple)](https://scholar.google.com/citations?user=SUxEVPQAAAAJ)
 
 ---
 
@@ -13,10 +8,15 @@ I am a PhD researcher in Robotics and AI, And I am passionate about developing i
 
 </br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nipun-dhananjaya-a26378234)
+[![YouTube](https://img.shields.io/badge/YouTube-white.svg?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@nipundhananjaya1367/videos)
+[![Email](https://img.shields.io/badge/GMail-white.svg?style=for-the-badge&logo=gmail&logoColor=red)](mailto:nipun.dhananjaya@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-white.svg?style=for-the-badge&logo=google-scholar&logoColor=lightpurple)](https://scholar.google.com/citations?user=SUxEVPQAAAAJ)
+
 ---
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&layout=compact&theme=dark&show)
-![](https://github-readme-streak-stats.herokuapp.com/?user=NDHANA94&theme=dark&hide_border=false)
-![](https://github-contributor-stats.vercel.app/api?username=NDHANA94&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=NDHANA94&theme=dark&hide_border=false) -->
+<!-- ![](https://github-contributor-stats.vercel.app/api?username=NDHANA94&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 
