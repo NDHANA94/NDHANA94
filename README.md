@@ -15,8 +15,7 @@ I am a PhD researcher in Robotics and AI, And I am passionate about developing i
 
 ---
 ![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=NDHANA94&theme=dark&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NDHANA94&layout=compact&theme=dark&show)
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=NDHANA94&theme=dark&hide_border=false) -->
-<!-- ![](https://github-contributor-stats.vercel.app/api?username=NDHANA94&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
 
 ---
 
@@ -54,6 +53,8 @@ I am a PhD researcher in Robotics and AI, And I am passionate about developing i
 ---
 
 ![](https://github-profile-trophy.vercel.app/?username=NDHANA94&theme=dark&no-frame=true&no-bg=false&margin-w=2)
+![](https://github-readme-streak-stats.herokuapp.com/?user=NDHANA94&theme=dark&hide_border=false) 
+![](https://github-contributor-stats.vercel.app/api?username=NDHANA94&limit=5&theme=dark&combine_all_yearly_contributions=true) 
 
 <!--
 ### 📫 How to Reach Me
