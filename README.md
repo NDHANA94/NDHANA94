@@ -40,9 +40,11 @@ I am a PhD researcher in Robotics and AI, And I am passionate about developing i
 </br>
 
 ### 🎓 Academic Background
-- **(2015-2020)&nbsp;&nbsp;  Bachelor's Degree**: @BMSTU
-- **(2020-2022)&nbsp;&nbsp;  Master's Degree**: @ISR-LAB, SKOLTECH
 - **(2024-20xx)&nbsp;&nbsp;  PhD Student**: Humanoid Robot Lab, University of Bonn
+- **(2020-2022)&nbsp;&nbsp;  Master's Degree**: @ISR-LAB, SKOLTECH
+- **(2015-2020)&nbsp;&nbsp;  Bachelor's Degree**: @BMSTU
+
+
 
 </br>
 
