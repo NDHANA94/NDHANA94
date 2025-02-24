@@ -32,7 +32,8 @@ I am a PhD researcher in Robotics and AI, And I am passionate about developing i
 
 ### 🌱 Research Interests
 - Artificial Intelligence in Robotics
-- Legged Robots 
+- Legged Robots
+- Robot Locomotion
 - Active Perception
 - Mobile Manipulation
 
