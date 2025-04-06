@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Nipun 👋
 
-I am a PhD researcher in Robotics and AI, And I am passionate about developing innovative solutions for mobile robots and pushing the boundaries of what they can achieve.  🦾🤖
+I am a roboticist driven by a passion for advancing mobile robotics, creating innovative solutions, and redefining their potential  🦾🤖
 
 </br>
 
